@@ -1,0 +1,37 @@
+# Archivos del sistema 
+.DS_Store
+Thumbs.db
+
+# Entornos virtuales
+.venv/
+env/
+venv/
+
+# Archivos compilados
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Datos
+data/raw/
+data/processed/
+data/interim/
+*.csv
+*.xlsx
+
+# Notebooks temporales
+*.ipynb_checkpoints
+notebooks/.ipynb_checkpoints/
+
+# Archivos de configuración personales
+.vscode/
+.idea/
+
+# Logs
+*.log
+logs/
+
+# Archivos temporales o de pruebas
+tmp/
+temp/
