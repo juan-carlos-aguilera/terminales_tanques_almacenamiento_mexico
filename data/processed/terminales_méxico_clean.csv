@@ -1,0 +1,80 @@
+,ID_Terminal,Nombre_Terminal,Tipo_Terminal,Región,Estado,Tipos_Productos_Almacenar,Año,Capacidad_Diseño_barriles,Capacidad_Operativa_barriles
+0,TAR_ACG_GRO,Acapulco,Terrestre,Sur,Guerrero,Gasolina;Diésel,2015,235000,145262
+1,TAR_AGS_AGS,Aguascalientes,Terrestre,Occidente,Aguascalientes,Gasolina;Diésel,2015,105000,68241
+2,TAR_AÑL_CDM,Añil,Terrestre,Centro,Ciudad de México,Gasolina;Diésel,2015,235000,158343
+3,TAR_AZC_CDM,Azcapotzalco,Terrestre,Centro,Ciudad de México,Gasolina;Diésel;Turbosina,2015,1510000,1107981
+4,TAR_BDM_CDM,Barranca del Muerto,Terrestre,Centro,Ciudad de México,Gasolina;Diésel,2015,125000,91526
+6,TAR_CAD_NL,Cadereyta,Terrestre,Noreste,Nuevo León,Gasolina;Diésel,2015,100000,74699
+7,TAR_CAM_CAM,Campeche,Terrestre,Sureste,Campeche,Gasolina;Diésel,2015,265000,208410
+8,TAR_CEL_GTO,Celaya,Terrestre,Occidente,Guanajuato,Gasolina;Diésel,2015,180000,130230
+9,TAR_CHI_CHI,Chihuahua,Terrestre,Norte,Chihuahua,Gasolina;Diésel,2015,420000,336158
+10,TAR_CJC_CHI,Ciudad Juárez,Terrestre,Norte,Chihuahua,Gasolina;Diésel,2015,245000,184554
+11,TAR_COL_COL,Colima,Terrestre,Occidente,Colima,Gasolina;Diésel,2015,55000,43704
+12,TAR_CUA_MOR,Cuautla,Terrestre,Centro,Morelos,Gasolina;Diésel,2015,60000,44742
+13,TAR_CUE_MOR,Cuernavaca,Terrestre,Centro,Morelos,Gasolina;Diésel,2015,135000,102226
+14,TAR_CUL_SIN,Culiacán,Terrestre,Noroeste,Sinaloa,Gasolina;Diésel,2015,115000,85203
+15,TAR_DGO_DGO,Durango,Terrestre,Norte,Durango,Gasolina;Diésel,2015,75000,51728
+16,TAR_ELC_JAL,El Castillo,Terrestre,Occidente,Jalisco,Gasolina;Diésel,2015,345000,220593
+17,TAR_ENS_BC,Ensenada,Terrestre,Noroeste,Baja California,Gasolina;Diésel,2015,135000,100086
+18,TAR_ESC_VER,Escamela,Terrestre,Golfo,Veracruz,Gasolina;Diésel,2015,98000,70265
+19,TAR_GPD_DGO,Gomez Palacio,Terrestre,Norte,Durango,Gasolina;Diésel,2015,475000,339662
+20,TAR_GML_SIN,Guamuchil,Terrestre,Noroeste,Sinaloa,Gasolina;Diésel,2015,105000,74128
+21,TAR_GYM_SON,Guaymas,Terrestre,Noroeste,Sonora,Gasolina;Diésel,2015,750000,534164
+22,TAR_HER_SON,Hermosillo,Terrestre,Noroeste,Sonora,Gasolina;Diésel,2015,125000,86048
+23,TAR_IGU_GRO,Iguala,Terrestre,Sur,Guerrero,Gasolina;Diésel,2015,60000,41867
+24,TAR_IRP_GTO,Irapuato,Terrestre,Occidente,Guanajuato,Gasolina;Diésel;Turbosina;Combustóleo,2015,435000,314169
+25,TAR_JAL_VER,Jalapa,Terrestre,Golfo,Veracruz,Gasolina;Diésel,2015,45000,27068
+26,TAR_LPB_BJS,La Paz,Terrestre,Noroeste,Baja California Sur,Gasolina;Diésel,2015,230000,161793
+27,TAR_LCM_MIC,Lázaro Cárdenas,Terrestre,Occidente,Michoacán,Gasolina;Diésel;Combustóleo,2015,830000,609033
+28,TAR_LEO_GTO,León,Terrestre,Occidente,Guanajuato,Gasolina;Diésel,2015,110000,80433
+29,TAR_MAD_TAM,Madero,Marítima,Noreste,Tamaulipas,Gasolina;Diésel,2015,450000,364259
+31,TAR_MAG_SON,Magdalena,Terrestre,Noroeste,Sonora,Gasolina;Diésel,2015,40000,26754
+32,TAR_MAN_TAM,Mante,Terrestre,Noreste,Tamaulipas,Gasolina;Diésel,2015,21000,14907
+33,TAR_MDT_COL,Manzanillo Tapeixtles,Terrestre,Occidente,Colima,Gasolina;Diésel;Combustóleo,2015,465000,328151
+34,TAR_MAT_SLP,Matehuala,Terrestre,Noreste,San Luis Potosí,Gasolina;Diésel,2015,33000,24522
+35,TAR_MAZ_SIN,Mazatlán,Terrestre,Noroeste,Sinaloa,Gasolina;Diésel;Combustóleo,2015,620000,467569
+36,TAR_MER_YUC,Mérida,Terrestre,Sureste,Yucatán,Gasolina;Diésel,2015,148000,114630
+37,TAR_MEX_BJ,Mexicali,Terrestre,Noroeste,Baja California,Gasolina;Diésel,2015,155000,118085
+38,TAR_MIN_VER,Minatitlán,Terrestre,Golfo,Veracruz,Gasolina;Diésel,2015,10000,5926
+39,TAR_MON_COA,Monclova,Terrestre,Noreste,Coahuila,Gasolina;Diésel,2015,235000,181963
+40,TAR_MOR_MIC,Morelia,Terrestre,Occidente,Michoacán,Gasolina;Diésel,2015,135000,98110
+41,TAR_NAV_SON,Navojoa,Terrestre,Noroeste,Sonora,Gasolina;Diésel,2015,35000,25040
+42,TAR_NOG_SON,Nogales,Terrestre,Noroeste,Sonora,Gasolina;Diésel,2015,45000,34666
+43,TAR_NDL_TAM,Nuevo Laredo,Terrestre,Noreste,Tamaulipas,Gasolina;Diésel,2015,75000,58829
+44,TAR_OAX_OAX,Oaxaca,Terrestre,Sur,Oaxaca,Gasolina;Diésel,2015,110000,84018
+45,TAR_OBR_SON,Obregón,Terrestre,Noroeste,Sonora,Gasolina;Diésel,2015,170000,112462
+46,TAR_PAC_HGO,Pachuca,Terrestre,Centro,Hidalgo,Gasolina;Diésel,2015,170000,120032
+48,TAR_PPC_VER,Pajaritos P,Marítima,Golfo,Veracruz,Petróleo,2015,2960000,2704632
+49,TAR_PPL_VER,Pajaritos PL,Marítima,Golfo,Veracruz,Gasolina;Diésel;Turbosina;Combustóleo,2015,4805000,4370333
+50,TAR_PPQ_VER,Pajaritos PQ,Marítima,Golfo,Veracruz,Propano;Butano;Naftas,2015,1841000,944340
+51,TAR_PAR_CHI,Parral,Terrestre,Norte,Chihuahua,Gasolina;Diésel,2015,55000,40330
+52,TAR_PER_VER,Perote,Terrestre,Golfo,Veracruz,Gasolina;Diésel,2015,25000,18529
+53,TAR_PDR_VER,Poza Rica,Terrestre,Golfo,Veracruz,Gasolina;Diésel,2015,55000,38744
+54,TAR_PRO_YUC,Progreso,Terrestre,Sureste,Yucatán,Gasolina;Diésel,2015,280500,198336
+55,TAR_PUE_PUE,Puebla,Terrestre,Centro,Puebla,Gasolina;Diésel,2015,425000,301740
+57,TAR_QRO_QRO,Querétaro,Terrestre,Centro,Querétaro,Gasolina;Diésel,2015,230000,166427
+58,TAR_REY_TAM,Reynosa,Terrestre,Noreste,Tamaulipas,Gasolina;Diésel,2015,23500,14629
+59,TAR_ROS_BJ,Rosarito,Terrestre,Noroeste,Baja California,Gasolina;Diésel;Turbosina;Combustóleo,2015,1393000,1020288
+61,TAR_SAB_COA,Sabinas,Terrestre,Noreste,Coahuila,Gasolina;Diésel,2015,100000,73446
+62,TAR_SCZ_OAX,Salina Cruz,Terrestre,Sur,Oaxaca,Gasolina;Diésel,2015,205000,154025
+63,TAR_SCM_OAX,Salina Cruz,Marítima,Sur,Oaxaca,Gasolina;Diésel;Turbosina;Combustóleo,2015,1479000,1119888
+65,TAR_SAL_COA,Saltillo,Terrestre,Noreste,Coahuila,Gasolina;Diésel,2015,151000,117601
+66,TAR_SJI_MEX,San Juan Ixhuatepec,Terrestre,Centro,México,Gasolina;Diésel,2015,225000,138729
+67,TAR_SLP_SLP,San Luis Potosí,Terrestre,Noreste,San Luis Potosí,Gasolina;Diésel,2015,100000,68984
+69,TAR_SCN_NL,Santa Catarina,Terrestre,Noreste,Nuevo León,Gasolina;Diésel,2015,850000,586738
+70,TAR_TAP_CHS,Tapachula,Terrestre,Sur,Chiapas,Gasolina;Diésel,2015,24500,15244
+71,TAR_TMP_PUE,Tehuacán Mihuatlán,Terrestre,Centro,Puebla,Gasolina;Diésel,2015,45000,32250
+72,TAR_TEP_NAY,Tepic,Terrestre,Noroeste,Nayarit,Gasolina;Diésel,2015,95000,66232
+73,TAR_TBV_VER,Tierra Blanca,Terrestre,Golfo,Veracruz,Gasolina;Diésel,2015,71000,49212
+75,TAR_TOL_MEX,Toluca,Terrestre,Centro,México,Gasolina;Diésel,2015,195000,135282
+76,TAR_TPB_SIN,Topolobampo,Terrestre,Noroeste,Sinaloa,Gasolina;Diésel,2015,760000,538741
+79,TAR_TUX_VER,Tuxpan,Marítima,Golfo,Veracruz,Gasolina;Diésel,2015,2525000,2200770
+80,TAR_TGC_CHS,Tuxtla Gutiérrez,Terrestre,Sur,Chiapas,Gasolina;Diésel,2015,105000,74888
+81,TAR_URU_MIC,Uruapan,Terrestre,Occidente,Michoacán,Gasolina;Diésel,2015,130000,102280
+82,TAR_VAL_SLP,Valles,Terrestre,Noreste,San Luis Potosí,Gasolina;Diésel,2015,75000,55314
+83,TAR_VER_VER,Veracruz,Terrestre,Golfo,Veracruz,Gasolina;Diésel,2015,536000,352322
+84,TAR_VIC_TAM,Victoria,Terrestre,Noreste,Tamaulipas,Gasolina;Diésel,2015,195000,146652
+85,TAR_VIL_TAB,Villahermosa,Terrestre,Golfo,Tabasco,Gasolina;Diésel,2015,328500,236610
+86,TAR_ZAC_ZAC,Zacatecas,Terrestre,Occidente,Zacatecas,Gasolina;Diésel,2015,85000,58057
+87,TAR_ZAM_MIC,Zamora,Terrestre,Occidente,Michoacán,Gasolina;Diésel,2015,90000,64012
+88,TAR_ZAP_JAL,Zapopan,Terrestre,Occidente,Jalisco,Gasolina;Diésel,2015,390000,281225

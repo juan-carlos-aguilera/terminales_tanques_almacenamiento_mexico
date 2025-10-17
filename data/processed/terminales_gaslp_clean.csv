@@ -1,0 +1,11 @@
+,ID_Terminal,Nombre_Terminal,Tipo_Terminal,Región,Estado,Tipos_Productos_Almacenar,Año,Capacidad_Diseño_barriles
+5,TAR_CLP_CHS,Cactus GLP,Gas LP,Sur,Chiapas,Gas Licuado de Petróleo,2015,40000
+30,TAR_MLP_TAM,Madero GLP,Gas LP,Noreste,Tamaulipas,Gas Licuado de Petróleo,2015,15000
+47,TAR_PLP_VER,Pajaritos GLP,Gas LP,Golfo,Veracruz,Gas Licuado de Petróleo,2015,770464
+56,TAR_PLP_PUE,Puebla GLP,Gas LP,Centro,Puebla,Gas Licuado de Petróleo,2015,20000
+60,TAR_RLP_BJ,Rosarito GLP,Gas LP,Noroeste,Baja California,Gas Licuado de Petróleo,2015,40000
+64,TAR_OLP_OAX,Salina Cruz Oaxaca GLP,Gas LP,Sur,Oaxaca,Gas Licuado de Petróleo,2015,4000
+68,TAR_SMT_PUE,San Martín Texmelucan GLP,Gas LP,Centro,Puebla,Gas Licuado de Petróleo,2015,20000
+74,TAR_BLP_VER,Tierra Blanca GLP,Gas LP,Golfo,Veracruz,Gas Licuado de Petróleo,2015,10000
+77,TAR_TLP_SIN,Topolobampo GLP,Gas LP,Noroeste,Sinaloa,Gas Licuado de Petróleo,2015,200000
+78,TAR_TLP_HGO,Tula GLP,Gas LP,Centro,Hidalgo,Gas Licuado de Petróleo,2015,60000

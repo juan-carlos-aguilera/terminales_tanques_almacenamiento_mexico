@@ -13,13 +13,6 @@ __pycache__/
 *.pyo
 *.pyd
 
-# Datos
-data/raw/
-data/processed/
-data/interim/
-*.csv
-*.xlsx
-
 # Notebooks temporales
 *.ipynb_checkpoints
 notebooks/.ipynb_checkpoints/

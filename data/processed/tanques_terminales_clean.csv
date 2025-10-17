@@ -1,0 +1,732 @@
+ID_Terminal,ID_Tanque_Local,Tipo_Tanque,Subtipo_Tanque,Capacidad_Tanque_barriles,Cantidad_Tanques
+TAR_ACG_GRO,TV_006,Cilíndrico Vertical Atmosférico,Membrana Flotante,30000,1
+TAR_ACG_GRO,TV_011,Cilíndrico Vertical Atmosférico,Membrana Flotante,55000,1
+TAR_ACG_GRO,TV_260,Cilíndrico Vertical Atmosférico,Membrana Flotante,10000,1
+TAR_ACG_GRO,TV_261,Cilíndrico Vertical Atmosférico,Membrana Flotante,10000,1
+TAR_ACG_GRO,TV_386,Cilíndrico Vertical Atmosférico,Membrana Flotante,30000,1
+TAR_ACG_GRO,TV_182,Cilíndrico Vertical Atmosférico,Membrana Flotante,20000,1
+TAR_ACG_GRO,TV_259,Cilíndrico Vertical Atmosférico,Membrana Flotante,20000,1
+TAR_ACG_GRO,TV_005,Cilíndrico Vertical Atmosférico,Membrana Flotante,30000,1
+TAR_ACG_GRO,TV_010,Cilíndrico Vertical Atmosférico,Membrana Flotante,10000,1
+TAR_ACG_GRO,TV_007,Cilíndrico Vertical Atmosférico,Membrana Flotante,10000,1
+TAR_ACG_GRO,TV_263,Cilíndrico Vertical Atmosférico,Membrana Flotante,10000,1
+TAR_AGS_AGS,TV_20,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,20000,1
+TAR_AGS_AGS,TV_21,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,20000,1
+TAR_AGS_AGS,TV_22,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,10000,1
+TAR_AGS_AGS,TV_23,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,10000,1
+TAR_AGS_AGS,TV_24,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,20000,1
+TAR_AGS_AGS,TV_25,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,20000,1
+TAR_AGS_AGS,TV_26,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_AÑL_CDM,TV_2,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,55000,1
+TAR_AÑL_CDM,TV_3,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,35000,1
+TAR_AÑL_CDM,TV_4,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,30000,1
+TAR_AÑL_CDM,TV_6,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_AÑL_CDM,TV_8,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,55000,1
+TAR_AÑL_CDM,TV_10,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,55000,1
+TAR_AZC_CDM,TV_1,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,100000,1
+TAR_AZC_CDM,TV_2,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,100000,1
+TAR_AZC_CDM,TV_3,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,100000,1
+TAR_AZC_CDM,TV_4,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,100000,1
+TAR_AZC_CDM,TV_5,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,100000,1
+TAR_AZC_CDM,TV_6,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,100000,1
+TAR_AZC_CDM,TV_7,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,100000,1
+TAR_AZC_CDM,TV_8,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,100000,1
+TAR_AZC_CDM,TV_9,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,100000,1
+TAR_AZC_CDM,TV_10,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,100000,1
+TAR_AZC_CDM,TV_11,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,100000,1
+TAR_AZC_CDM,TV_12,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,100000,1
+TAR_AZC_CDM,TV_13,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,100000,1
+TAR_AZC_CDM,TV_14,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,100000,1
+TAR_AZC_CDM,TV_15,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,30000,1
+TAR_AZC_CDM,TV_16,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,30000,1
+TAR_AZC_CDM,TV_17,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,20000,1
+TAR_AZC_CDM,TV_18,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,20000,1
+TAR_AZC_CDM,TV_1,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,10000,1
+TAR_BDM_CDM,TV_2,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,55000,1
+TAR_BDM_CDM,TV_3,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,20000,1
+TAR_BDM_CDM,TV_4,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_BDM_CDM,TV_5,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_BDM_CDM,TV_6,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,20000,1
+TAR_BDM_CDM,TV_8,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,20000,1
+TAR_BLP_VER,TE_1,Esférico,No especificado,10000,1
+TAR_CAD_NL,TV_1,Cilíndrico Vertical Atmosférico,Cúpula Flotante,10000,1
+TAR_CAD_NL,TV_2,Cilíndrico Vertical Atmosférico,Cúpula Flotante,10000,1
+TAR_CAD_NL,TV_3,Cilíndrico Vertical Atmosférico,Cúpula Flotante,10000,1
+TAR_CAD_NL,TV_4,Cilíndrico Vertical Atmosférico,Cúpula Flotante,10000,1
+TAR_CAD_NL,TV_5,Cilíndrico Vertical Atmosférico,Techo Fijo,10000,1
+TAR_CAD_NL,TV_6,Cilíndrico Vertical Atmosférico,Techo Fijo,10000,1
+TAR_CAD_NL,TV_7,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,10000,1
+TAR_CAD_NL,TV_8,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,10000,1
+TAR_CAD_NL,TV_9,Cilíndrico Vertical Atmosférico,Cúpula Flotante,10000,1
+TAR_CAD_NL,TV_10,Cilíndrico Vertical Atmosférico,Cúpula Flotante,10000,1
+TAR_CAM_CAM,TV_4,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,30000,1
+TAR_CAM_CAM,TV_190,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,55000,1
+TAR_CAM_CAM,TV_73,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_CAM_CAM,TV_3,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_CAM_CAM,TV_2,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,10000,1
+TAR_CAM_CAM,TV_301,Cilíndrico Vertical Atmosférico,Techo Fijo,80000,1
+TAR_CAM_CAM,TV_300,Cilíndrico Vertical Atmosférico,Techo Fijo,80000,1
+TAR_CEL_GTO,TV_56,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,20000,1
+TAR_CEL_GTO,TV_57,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,55000,1
+TAR_CEL_GTO,TV_58,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,20000,1
+TAR_CEL_GTO,TV_59,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,20000,1
+TAR_CEL_GTO,TV_60,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,20000,1
+TAR_CEL_GTO,TV_61,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,20000,1
+TAR_CEL_GTO,TV_62,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,20000,1
+TAR_CEL_GTO,TV_63,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_CHI_CHI,TV_1,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,5000,1
+TAR_CHI_CHI,TV_2,Cilíndrico Vertical Atmosférico,Cúpula Flotante,55000,1
+TAR_CHI_CHI,TV_3,Cilíndrico Vertical Atmosférico,Cúpula Flotante,55000,1
+TAR_CHI_CHI,TV_4,Cilíndrico Vertical Atmosférico,Cúpula Flotante,55000,1
+TAR_CHI_CHI,TV_5,Cilíndrico Vertical Atmosférico,Cúpula Flotante,10000,1
+TAR_CHI_CHI,TV_6,Cilíndrico Vertical Atmosférico,Cúpula Flotante,10000,1
+TAR_CHI_CHI,TV_7,Cilíndrico Vertical Atmosférico,Cúpula Fija,55000,1
+TAR_CHI_CHI,TV_8,Cilíndrico Vertical Atmosférico,Cúpula Fija,30000,1
+TAR_CHI_CHI,TV_9,Cilíndrico Vertical Atmosférico,Cúpula Fija,30000,1
+TAR_CHI_CHI,TV_11,Cilíndrico Vertical Atmosférico,Cúpula Fija,30000,1
+TAR_CHI_CHI,TV_12,Cilíndrico Vertical Atmosférico,Cúpula Fija,30000,1
+TAR_CHI_CHI,TV_16,Cilíndrico Vertical Atmosférico,Cúpula Flotante,55000,1
+TAR_CJC_CHI,TV_1,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,55000,1
+TAR_CJC_CHI,TV_2,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,55000,1
+TAR_CJC_CHI,TV_3,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,20000,1
+TAR_CJC_CHI,TV_4,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,55000,1
+TAR_CJC_CHI,TV_5,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,30000,1
+TAR_CJC_CHI,TV_7,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,10000,1
+TAR_CJC_CHI,TV_8,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,10000,1
+TAR_CJC_CHI,TV_10,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,10000,1
+TAR_CLP_CHS,TE_1,Esférico,No especificado,10000,1
+TAR_CLP_CHS,TE_2,Esférico,No especificado,10000,1
+TAR_CLP_CHS,TE_3,Esférico,No especificado,10000,1
+TAR_CLP_CHS,TE_4,Esférico,No especificado,10000,1
+TAR_COL_COL,TV_1,Cilíndrico Vertical Atmosférico,Membrana Flotante,15000,1
+TAR_COL_COL,TV_3,Cilíndrico Vertical Atmosférico,Membrana Flotante,10000,1
+TAR_COL_COL,TV_4,Cilíndrico Vertical Atmosférico,Techo Fijo,10000,1
+TAR_COL_COL,TV_5,Cilíndrico Vertical Atmosférico,Techo Fijo,10000,1
+TAR_COL_COL,TV_2,Cilíndrico Vertical Atmosférico,Membrana Flotante,5000,1
+TAR_COL_COL,TV_6,Cilíndrico Vertical Atmosférico,Membrana Flotante,5000,1
+TAR_CUA_MOR,TV_1,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,20000,1
+TAR_CUA_MOR,TV_2,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,10000,1
+TAR_CUA_MOR,TV_3,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,20000,1
+TAR_CUA_MOR,TV_4,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,10000,1
+TAR_CUE_MOR,TV_1,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,10000,1
+TAR_CUE_MOR,TV_2,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,10000,1
+TAR_CUE_MOR,TV_3,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_CUE_MOR,TV_4,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_CUE_MOR,TV_5,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_CUE_MOR,TV_6,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_CUE_MOR,TV_7,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_CUE_MOR,TV_8,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_CUE_MOR,TV_9,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,55000,1
+TAR_CUE_MOR,TV_10,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,30000,1
+TAR_CUL_SIN,TV_201,Cilíndrico Vertical Atmosférico,Membrana Flotante,10000,1
+TAR_CUL_SIN,TV_202,Cilíndrico Vertical Atmosférico,Membrana Flotante,10000,1
+TAR_CUL_SIN,TV_203,Cilíndrico Vertical Atmosférico,Techo Fijo,10000,1
+TAR_CUL_SIN,TV_204,Cilíndrico Vertical Atmosférico,Techo Fijo,5000,1
+TAR_CUL_SIN,TV_206,Cilíndrico Vertical Atmosférico,Techo Fijo,5000,1
+TAR_CUL_SIN,TV_207,Cilíndrico Vertical Atmosférico,Techo Fijo,10000,1
+TAR_CUL_SIN,TV_208,Cilíndrico Vertical Atmosférico,Techo Fijo,10000,1
+TAR_CUL_SIN,TV_212,Cilíndrico Vertical Atmosférico,Membrana Flotante,55000,1
+TAR_DGO_DGO,TV_1,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,5000,1
+TAR_DGO_DGO,TV_3,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,10000,1
+TAR_DGO_DGO,TV_4,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,10000,1
+TAR_DGO_DGO,TV_5,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,10000,1
+TAR_DGO_DGO,TV_6,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,10000,1
+TAR_DGO_DGO,TV_8,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,20000,1
+TAR_DGO_DGO,TV_9,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,10000,1
+TAR_ELC_JAL,TV_1,Cilíndrico Vertical Atmosférico,Membrana Flotante,55000,1
+TAR_ELC_JAL,TV_2,Cilíndrico Vertical Atmosférico,Membrana Flotante,55000,1
+TAR_ELC_JAL,TV_3,Cilíndrico Vertical Atmosférico,Membrana Flotante,55000,1
+TAR_ELC_JAL,TV_4,Cilíndrico Vertical Atmosférico,Membrana Flotante,55000,1
+TAR_ELC_JAL,TV_5,Cilíndrico Vertical Atmosférico,Membrana Flotante,55000,1
+TAR_ELC_JAL,TV_6,Cilíndrico Vertical Atmosférico,Membrana Flotante,55000,1
+TAR_ELC_JAL,TV_7,Cilíndrico Vertical Atmosférico,Membrana Flotante,10000,1
+TAR_ELC_JAL,TV_8,Cilíndrico Vertical Atmosférico,Membrana Flotante,5000,1
+TAR_ENS_BC,TV_1,Cilíndrico Vertical Atmosférico,Membrana Flotante,30000,1
+TAR_ENS_BC,TV_2,Cilíndrico Vertical Atmosférico,Membrana Flotante,10000,1
+TAR_ENS_BC,TV_3,Cilíndrico Vertical Atmosférico,Membrana Flotante,20000,1
+TAR_ENS_BC,TV_4,Cilíndrico Vertical Atmosférico,Membrana Flotante,10000,1
+TAR_ENS_BC,TV_5,Cilíndrico Vertical Atmosférico,Membrana Flotante,20000,1
+TAR_ENS_BC,TV_6,Cilíndrico Vertical Atmosférico,Membrana Flotante,20000,1
+TAR_ENS_BC,TV_7,Cilíndrico Vertical Atmosférico,Membrana Flotante,10000,1
+TAR_ENS_BC,TV_8,Cilíndrico Vertical Atmosférico,Membrana Flotante,10000,1
+TAR_ENS_BC,TV_9,Cilíndrico Vertical Atmosférico,Membrana Flotante,5000,1
+TAR_ESC_VER,TV_3,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_ESC_VER,TV_2,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,10000,1
+TAR_ESC_VER,TV_6,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,10000,1
+TAR_ESC_VER,TV_10,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,20000,1
+TAR_ESC_VER,TV_1,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,10000,1
+TAR_ESC_VER,TV_8,Cilíndrico Vertical Atmosférico,Techo Fijo,30000,1
+TAR_ESC_VER,TV_7,Cilíndrico Vertical Atmosférico,Techo Fijo,3000,1
+TAR_ESC_VER,TV_5,Cilíndrico Vertical Atmosférico,Techo Fijo,10000,1
+TAR_GML_SIN,TV_1,Cilíndrico Vertical Atmosférico,Membrana Flotante,20000,1
+TAR_GML_SIN,TV_2,Cilíndrico Vertical Atmosférico,Membrana Flotante,30000,1
+TAR_GML_SIN,TV_3,Cilíndrico Vertical Atmosférico,Membrana Flotante,20000,1
+TAR_GML_SIN,TV_4,Cilíndrico Vertical Atmosférico,Membrana Flotante,20000,1
+TAR_GML_SIN,TV_5,Cilíndrico Vertical Atmosférico,Membrana Flotante,5000,1
+TAR_GML_SIN,TV_6,Cilíndrico Vertical Atmosférico,Membrana Flotante,5000,1
+TAR_GML_SIN,TV_7,Cilíndrico Vertical Atmosférico,Membrana Flotante,5000,1
+TAR_GPD_DGO,TV_1,Cilíndrico Vertical Atmosférico,Membrana Flotante,55000,1
+TAR_GPD_DGO,TV_2,Cilíndrico Vertical Atmosférico,Membrana Flotante,55000,1
+TAR_GPD_DGO,TV_4,Cilíndrico Vertical Atmosférico,Membrana Flotante,20000,1
+TAR_GPD_DGO,TV_6,Cilíndrico Vertical Atmosférico,Membrana Flotante,55000,1
+TAR_GPD_DGO,TV_7,Cilíndrico Vertical Atmosférico,No especificado,20000,1
+TAR_GPD_DGO,TV_8,Cilíndrico Vertical Atmosférico,Membrana Flotante,20000,1
+TAR_GPD_DGO,TV_9,Cilíndrico Vertical Atmosférico,Membrana Flotante,30000,1
+TAR_GPD_DGO,TV_10,Cilíndrico Vertical Atmosférico,No especificado,55000,1
+TAR_GPD_DGO,TV_12,Cilíndrico Vertical Atmosférico,Membrana Flotante,80000,1
+TAR_GPD_DGO,TV_13,Cilíndrico Vertical Atmosférico,Membrana Flotante,30000,1
+TAR_GPD_DGO,TV_14,Cilíndrico Vertical Atmosférico,Membrana Flotante,55000,1
+TAR_GYM_SON,TV_1,Cilíndrico Vertical Atmosférico,Membrana Flotante,55000,1
+TAR_GYM_SON,TV_3,Cilíndrico Vertical Atmosférico,Membrana Flotante,30000,1
+TAR_GYM_SON,TV_4,Cilíndrico Vertical Atmosférico,Membrana Flotante,30000,1
+TAR_GYM_SON,TV_5,Cilíndrico Vertical Atmosférico,Techo Fijo,55000,1
+TAR_GYM_SON,TV_6,Cilíndrico Vertical Atmosférico,Techo Fijo,30000,1
+TAR_GYM_SON,TV_10,Cilíndrico Vertical Atmosférico,Techo Fijo,55000,1
+TAR_GYM_SON,TV_11,Cilíndrico Vertical Atmosférico,Techo Fijo,20000,1
+TAR_GYM_SON,TV_12,Cilíndrico Vertical,Membrana Interna Flotante,20000,1
+TAR_GYM_SON,TV_14,Cilíndrico Vertical,Membrana Interna Flotante,100000,1
+TAR_GYM_SON,TV_15,Cilíndrico Vertical,Membrana Interna Flotante,55000,1
+TAR_GYM_SON,TV_16,Cilíndrico Vertical,Membrana Interna Flotante,100000,1
+TAR_GYM_SON,TV_17,Cilíndrico Vertical,Techo Atmosférico Flotante,100000,1
+TAR_GYM_SON,TV_18,Cilíndrico Vertical,Membrana Interna Flotante,100000,1
+TAR_HER_SON,TV_20,Cilíndrico Vertical Atmosférico,Membrana Flotante,30000,1
+TAR_HER_SON,TV_21,Cilíndrico Vertical Atmosférico,Membrana Flotante,30000,1
+TAR_HER_SON,TV_24,Cilíndrico Vertical Atmosférico,Membrana Flotante,20000,1
+TAR_HER_SON,TV_25,Cilíndrico Vertical Atmosférico,Membrana Flotante,20000,1
+TAR_HER_SON,TV_22,Cilíndrico Vertical Atmosférico,Membrana Flotante,10000,1
+TAR_HER_SON,TV_23,Cilíndrico Vertical Atmosférico,Membrana Flotante,10000,1
+TAR_HER_SON,TV_26,Cilíndrico Vertical Atmosférico,Membrana Flotante,5000,1
+TAR_IGU_GRO,TV_1,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,10000,1
+TAR_IGU_GRO,TV_2,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,10000,1
+TAR_IGU_GRO,TV_3,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,10000,1
+TAR_IGU_GRO,TV_4,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_IGU_GRO,TV_5,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_IGU_GRO,TV_6,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,10000,1
+TAR_IGU_GRO,TV_7,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,10000,1
+TAR_IRP_GTO,TV_1,Cilíndrico Vertical Atmosférico,Membrana Flotante,55000,1
+TAR_IRP_GTO,TV_2,Cilíndrico Vertical Atmosférico,Membrana Flotante,30000,1
+TAR_IRP_GTO,TV_3,Cilíndrico Vertical Atmosférico,Membrana Flotante,20000,1
+TAR_IRP_GTO,TV_4,Cilíndrico Vertical Atmosférico,Membrana Flotante,20000,1
+TAR_IRP_GTO,TV_5,Cilíndrico Vertical Atmosférico,Membrana de Pontones,55000,1
+TAR_IRP_GTO,TV_6,Cilíndrico Vertical Atmosférico,Membrana de Pontones,30000,1
+TAR_IRP_GTO,TV_9,Cilíndrico Vertical Atmosférico,Sin Membrana,80000,1
+TAR_IRP_GTO,TV_10,Cilíndrico Vertical Atmosférico,Sin Membrana,80000,1
+TAR_IRP_GTO,TV_11,Cilíndrico Vertical Atmosférico,Membrana de Pontones,80000,1
+TAR_IRP_GTO,TV_12,Cilíndrico Vertical Atmosférico,Membrana de Pontones,30000,1
+TAR_IRP_GTO,TV_13,Cilíndrico Vertical Atmosférico,Membrana Flotante,30000,1
+TAR_JAL_VER,TV_3,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_JAL_VER,TV_6,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_JAL_VER,TV_5,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,10000,1
+TAR_JAL_VER,TV_4,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,10000,1
+TAR_JAL_VER,TV_2,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,10000,1
+TAR_JAL_VER,TV_7,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_LCM_MIC,TV_100,Cilíndrico Vertical Atmosférico,Techo Fijo,80000,1
+TAR_LCM_MIC,TV_101,Cilíndrico Vertical Atmosférico,Techo Fijo,80000,1
+TAR_LCM_MIC,TV_102,Cilíndrico Vertical Atmosférico,Membrana Flotante,55000,1
+TAR_LCM_MIC,TV_103,Cilíndrico Vertical Atmosférico,Membrana Flotante,55000,1
+TAR_LCM_MIC,TV_104,Cilíndrico Vertical Atmosférico,Techo Fijo,5000,1
+TAR_LCM_MIC,TV_105,Cilíndrico Vertical Atmosférico,Techo Fijo,5000,1
+TAR_LCM_MIC,TV_106,Cilíndrico Vertical Atmosférico,Techo Fijo,55000,1
+TAR_LCM_MIC,TV_107,Cilíndrico Vertical Atmosférico,Techo Fijo,55000,1
+TAR_LCM_MIC,TV_108,Cilíndrico Vertical Atmosférico,Membrana Flotante,55000,1
+TAR_LCM_MIC,TV_109,Cilíndrico Vertical Atmosférico,Membrana Flotante,55000,1
+TAR_LCM_MIC,TV_115,Cilíndrico Vertical Atmosférico,Techo Fijo,30000,1
+TAR_LCM_MIC,TV_120,Cilíndrico Vertical Atmosférico,Techo Fijo,100000,1
+TAR_LCM_MIC,TV_121,Cilíndrico Vertical Atmosférico,Techo Fijo,100000,1
+TAR_LCM_MIC,TV_122,Cilíndrico Vertical Atmosférico,Techo Fijo,100000,1
+TAR_LEO_GTO,TV_1,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,10000,1
+TAR_LEO_GTO,TV_2,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,20000,1
+TAR_LEO_GTO,TV_3,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,20000,1
+TAR_LEO_GTO,TV_4,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,10000,1
+TAR_LEO_GTO,TV_5,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,20000,1
+TAR_LEO_GTO,TV_6,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,20000,1
+TAR_LEO_GTO,TV_7,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,10000,1
+TAR_LPB_BJS,TV_9,Cilíndrico Vertical Atmosférico,Membrana Flotante,30000,1
+TAR_LPB_BJS,TV_10,Cilíndrico Vertical Atmosférico,Techo Fijo,30000,1
+TAR_LPB_BJS,TV_11,Cilíndrico Vertical Atmosférico,Membrana Flotante,30000,1
+TAR_LPB_BJS,TV_12,Cilíndrico Vertical Atmosférico,Membrana Flotante,30000,1
+TAR_LPB_BJS,TV_13,Cilíndrico Vertical Atmosférico,Techo Flotante,20000,1
+TAR_LPB_BJS,TV_14,Cilíndrico Vertical Atmosférico,Techo Flotante,30000,1
+TAR_LPB_BJS,TV_15,Cilíndrico Vertical Atmosférico,Techo Flotante,20000,1
+TAR_LPB_BJS,TV_16,Cilíndrico Vertical Atmosférico,Membrana Flotante,10000,1
+TAR_LPB_BJS,TV_17,Cilíndrico Vertical Atmosférico,Membrana Flotante,10000,1
+TAR_LPB_BJS,TV_18,Cilíndrico Vertical Atmosférico,Membrana Flotante,20000,1
+TAR_MAD_TAM,TV_114,Vertical,Cúpula Fija,30000,1
+TAR_MAD_TAM,TV_115,Vertical,Cúpula Fija,30000,1
+TAR_MAD_TAM,TV_116,Vertical,Cúpula Fija,100000,1
+TAR_MAD_TAM,TV_11,Vertical,Cúpula Fija,200000,1
+TAR_MAD_TAM,TV_1,Vertical,Cúpula Fija,20000,1
+TAR_MAD_TAM,TV_2,Vertical,Cúpula Fija,10000,1
+TAR_MAD_TAM,TV_3,Vertical,Cúpula Fija,10000,1
+TAR_MAD_TAM,TV_5,Vertical,Cúpula Fija,20000,1
+TAR_MAD_TAM,TV_6,Vertical,Cúpula Fija,10000,1
+TAR_MAD_TAM,TV_7,Vertical,Cúpula Fija,10000,1
+TAR_MAD_TAM,TV_9,Vertical,Cúpula Fija,5000,1
+TAR_MAD_TAM,TV_14,Vertical,Cúpula Fija,5000,1
+TAR_MAG_SON,TV_1,Cilíndrico Vertical Atmosférico,Techo Fijo,5000,1
+TAR_MAG_SON,TV_2,Cilíndrico Vertical Atmosférico,Techo Fijo,5000,1
+TAR_MAG_SON,TV_4,Cilíndrico Vertical Atmosférico,Techo Fijo,10000,1
+TAR_MAG_SON,TV_5,Cilíndrico Vertical Atmosférico,Techo Fijo,20000,1
+TAR_MAN_TAM,TV_14,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,10000,1
+TAR_MAN_TAM,TV_30,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,10000,1
+TAR_MAN_TAM,TH_22_23,Cilíndrico Horizontal Atmosférico,No especificado,500,2
+TAR_MAT_SLP,TV_1,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Flotante,20000,1
+TAR_MAT_SLP,TV_2,Cilíndrico Vertical Atmosférico,Techo Fijo,10000,1
+TAR_MAT_SLP,TV_6,Cilíndrico Horizontal Atmosférico,No especificado,500,1
+TAR_MAT_SLP,TV_7,Cilíndrico Horizontal Atmosférico,No especificado,500,1
+TAR_MAT_SLP,TV_4,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Flotante,2000,1
+TAR_MAZ_SIN,TV_1,Cilíndrico Vertical Atmosférico,Membrana Flotante,30000,1
+TAR_MAZ_SIN,TV_2,Cilíndrico Vertical Atmosférico,Membrana Flotante,30000,1
+TAR_MAZ_SIN,TV_3,Cilíndrico Vertical Atmosférico,Membrana Flotante,30000,1
+TAR_MAZ_SIN,TV_4,Cilíndrico Vertical Atmosférico,Membrana Flotante,30000,1
+TAR_MAZ_SIN,TV_5,Cilíndrico Vertical Atmosférico,Techo Fijo,30000,1
+TAR_MAZ_SIN,TV_6,Cilíndrico Vertical Atmosférico,Techo Fijo,85000,1
+TAR_MAZ_SIN,TV_7,Cilíndrico Vertical Atmosférico,Membrana Flotante,85000,1
+TAR_MAZ_SIN,TV_8,Cilíndrico Vertical Atmosférico,Membrana Flotante,100000,1
+TAR_MAZ_SIN,TV_9,Cilíndrico Vertical Atmosférico,Techo Fijo,100000,1
+TAR_MAZ_SIN,TV_10,Cilíndrico Vertical Atmosférico,Techo Fijo,100000,1
+TAR_MDT_COL,TV_2,Cilíndrico Vertical Atmosférico,Membrana Flotante,100000,1
+TAR_MDT_COL,TV_1,Cilíndrico Vertical Atmosférico,Membrana Flotante,55000,1
+TAR_MDT_COL,TV_6,Cilíndrico Vertical Atmosférico,Membrana Flotante,55000,1
+TAR_MDT_COL,TV_4,Cilíndrico Vertical Atmosférico,Membrana Flotante,10000,1
+TAR_MDT_COL,TV_5,Cilíndrico Vertical Atmosférico,Techo Fijo,55000,1
+TAR_MDT_COL,TV_3000,Cilíndrico Vertical Atmosférico,Techo Fijo,55000,1
+TAR_MDT_COL,TV_3001,Cilíndrico Vertical Atmosférico,Techo Fijo,55000,1
+TAR_MDT_COL,TV_100,Cilíndrico Vertical Atmosférico,Techo Fijo,30000,1
+TAR_MDT_COL,TV_455,Cilíndrico Vertical Atmosférico,Techo Fijo,20000,1
+TAR_MDT_COL,TV_456,Cilíndrico Vertical Atmosférico,Techo Fijo,20000,1
+TAR_MDT_COL,TV_280,Cilíndrico Vertical Atmosférico,Techo Fijo,10000,1
+TAR_MER_YUC,TV_25,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_MER_YUC,TV_12,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_MER_YUC,TV_11,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_MER_YUC,TV_13,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,30000,1
+TAR_MER_YUC,TV_50,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,30000,1
+TAR_MER_YUC,TV_14,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,30000,1
+TAR_MER_YUC,TV_37,Cilíndrico Vertical Atmosférico,Techo Fijo,20000,1
+TAR_MER_YUC,TV_38,Cilíndrico Vertical Atmosférico,Techo Fijo,20000,1
+TAR_MER_YUC,TV_81,Cilíndrico Vertical Atmosférico,Techo Fijo,3000,1
+TAR_MEX_BJ,TV_1,Cilíndrico Vertical Atmosférico,Membrana Flotante,20000,1
+TAR_MEX_BJ,TV_2,Cilíndrico Vertical Atmosférico,Membrana Flotante,10000,1
+TAR_MEX_BJ,TV_3,Cilíndrico Vertical Atmosférico,Membrana Flotante,20000,1
+TAR_MEX_BJ,TV_4,Cilíndrico Vertical Atmosférico,Membrana Flotante,20000,1
+TAR_MEX_BJ,TV_5,Cilíndrico Vertical Atmosférico,Membrana Flotante,55000,1
+TAR_MEX_BJ,TV_6,Cilíndrico Vertical Atmosférico,Membrana Flotante,20000,1
+TAR_MEX_BJ,TV_7,Cilíndrico Vertical Atmosférico,Membrana Flotante,5000,1
+TAR_MEX_BJ,TV_8,Cilíndrico Vertical Atmosférico,Membrana Flotante,5000,1
+TAR_MIN_VER,TV_211A,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_MIN_VER,TV_211B,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_MLP_TAM,TE_1,Esférico,No especificado,15000,1
+TAR_MON_COA,TV_1,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,55000,1
+TAR_MON_COA,TV_2,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,55000,1
+TAR_MON_COA,TV_3,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,55000,1
+TAR_MON_COA,TV_4,Cilíndrico Vertical Atmosférico,No especificado,55000,1
+TAR_MON_COA,TV_6,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,5000,1
+TAR_MON_COA,TV_7,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,5000,1
+TAR_MON_COA,TV_8,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,5000,1
+TAR_MOR_MIC,TV_20,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,30000,1
+TAR_MOR_MIC,TV_21,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,20000,1
+TAR_MOR_MIC,TV_22,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,20000,1
+TAR_MOR_MIC,TV_23,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,20000,1
+TAR_MOR_MIC,TV_24,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,20000,1
+TAR_MOR_MIC,TV_25,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,20000,1
+TAR_MOR_MIC,TV_26,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_NAV_SON,TV_1,Cilíndrico Vertical Atmosférico,Membrana Flotante,5000,1
+TAR_NAV_SON,TV_3,Cilíndrico Vertical Atmosférico,Membrana Flotante,5000,1
+TAR_NAV_SON,TV_4,Cilíndrico Vertical Atmosférico,Membrana Flotante,10000,1
+TAR_NAV_SON,TV_5,Cilíndrico Vertical Atmosférico,Membrana Flotante,5000,1
+TAR_NAV_SON,TV_6,Cilíndrico Vertical Atmosférico,Membrana Flotante,5000,1
+TAR_NAV_SON,TV_8,Cilíndrico Vertical Atmosférico,Techo Fijo,5000,1
+TAR_NDL_TAM,TV_1,Cilíndrico Vertical Atmosférico,Techo Fijo,5000,1
+TAR_NDL_TAM,TV_2,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,20000,1
+TAR_NDL_TAM,TV_3,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,10000,1
+TAR_NDL_TAM,TV_4,Cilíndrico Vertical Atmosférico,Techo Fijo,20000,1
+TAR_NDL_TAM,TV_5,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,20000,1
+TAR_NOG_SON,TV_1,Cilíndrico Vertical Atmosférico,Membrana Flotante,10000,1
+TAR_NOG_SON,TV_2,Cilíndrico Vertical Atmosférico,Membrana Flotante,20000,1
+TAR_NOG_SON,TV_3,Cilíndrico Vertical Atmosférico,Membrana Flotante,5000,1
+TAR_NOG_SON,TV_4,Cilíndrico Vertical Atmosférico,Techo Fijo,10000,1
+TAR_OAX_OAX,TV_5,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,10000,1
+TAR_OAX_OAX,TV_1,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,30000,1
+TAR_OAX_OAX,TV_2,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,30000,1
+TAR_OAX_OAX,TV_3,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,20000,1
+TAR_OAX_OAX,TV_4,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,20000,1
+TAR_OBR_SON,TV_1,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,20000,1
+TAR_OBR_SON,TV_3,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,10000,1
+TAR_OBR_SON,TV_4,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,10000,1
+TAR_OBR_SON,TV_5,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,10000,1
+TAR_OBR_SON,TV_6,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,5000,1
+TAR_OBR_SON,TV_7,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,5000,1
+TAR_OBR_SON,TV_8,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,55000,1
+TAR_OBR_SON,TV_10,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,55000,1
+TAR_OLP_OAX,TH_1,Horizontal,No especificado,1000,1
+TAR_OLP_OAX,TH_2,Horizontal,No especificado,1000,1
+TAR_OLP_OAX,TH_3,Horizontal,No especificado,1000,1
+TAR_OLP_OAX,TH_4,Horizontal,No especificado,1000,1
+TAR_PAC_HGO,TV_1,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,10000,1
+TAR_PAC_HGO,TV_2,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,55000,1
+TAR_PAC_HGO,TV_3,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,30000,1
+TAR_PAC_HGO,TV_4,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,30000,1
+TAR_PAC_HGO,TV_5,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,20000,1
+TAR_PAC_HGO,TV_6,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,20000,1
+TAR_PAC_HGO,TV_7,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_PAR_CHI,TV_1,Cilíndrico Vertical Atmosférico,Membrana Flotante,5000,1
+TAR_PAR_CHI,TV_2,Cilíndrico Vertical Atmosférico,Membrana Flotante,5000,1
+TAR_PAR_CHI,TV_3,Cilíndrico Vertical Atmosférico,Techo Fijo,5000,1
+TAR_PAR_CHI,TV_5,Cilíndrico Vertical Atmosférico,Membrana Flotante,20000,1
+TAR_PAR_CHI,TV_6,Cilíndrico Vertical Atmosférico,Membrana Flotante,20000,1
+TAR_PDR_VER,TV_17,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_PDR_VER,TV_10,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_PDR_VER,TV_9,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,10000,1
+TAR_PDR_VER,TV_19,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_PDR_VER,TV_11,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_PDR_VER,TV_13,Cilíndrico Vertical Atmosférico,Techo Fijo,10000,1
+TAR_PDR_VER,TV_12,Cilíndrico Vertical Atmosférico,Techo Fijo,10000,1
+TAR_PDR_VER,TV_14,Cilíndrico Vertical Atmosférico,Techo Fijo,5000,1
+TAR_PER_VER,TV_363,Cilíndrico Vertical Atmosférico,Techo Fijo,10000,1
+TAR_PER_VER,TV_365,Cilíndrico Vertical Atmosférico,Techo Fijo,5000,1
+TAR_PER_VER,TV_366,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_PER_VER,TV_367,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_PLP_PUE,TE_1,Esférico,No especificado,20000,1
+TAR_PLP_VER,TV_1,Vertical Criogénico,No especificado,187747,1
+TAR_PLP_VER,TV_2,Vertical Criogénico,No especificado,187747,1
+TAR_PLP_VER,TV_3,Vertical Criogénico,No especificado,194985,1
+TAR_PLP_VER,TV_4,Vertical Criogénico,No especificado,194985,1
+TAR_PLP_VER,TE_1,Esférico,No especificado,5000,1
+TAR_PPC_VER,TV_208,Cilíndrico Vertical Atmosférico,Cúpula Fija con Membrana Interna Flotante,200000,1
+TAR_PPC_VER,TV_209,Cilíndrico Vertical Atmosférico,Cúpula Fija con Membrana Interna Flotante,200000,1
+TAR_PPC_VER,TV_210,Cilíndrico Vertical Atmosférico,Cúpula Fija con Membrana Interna Flotante,200000,1
+TAR_PPC_VER,TV_211,Cilíndrico Vertical Atmosférico,Cúpula Fija,200000,1
+TAR_PPC_VER,TV_213,Cilíndrico Vertical Atmosférico,Cúpula Fija con Membrana Interna Flotante,200000,1
+TAR_PPC_VER,TV_220,Cilíndrico Vertical Atmosférico,Cúpula Flotante,200000,1
+TAR_PPC_VER,TV_222,Cilíndrico Vertical Atmosférico,Cúpula Fija,200000,1
+TAR_PPC_VER,TV_223,Cilíndrico Vertical Atmosférico,Cúpula Flotante,200000,1
+TAR_PPC_VER,TV_224,Cilíndrico Vertical Atmosférico,Cúpula Flotante,200000,1
+TAR_PPC_VER,TV_225,Cilíndrico Vertical Atmosférico,Cúpula Flotante,200000,1
+TAR_PPC_VER,TV_226,Cilíndrico Vertical Atmosférico,Cúpula Flotante,200000,1
+TAR_PPC_VER,TV_227,Cilíndrico Vertical Atmosférico,Cúpula Flotante,200000,1
+TAR_PPC_VER,TV_5001,Cilíndrico Vertical Atmosférico,Cúpula Flotante,560000,1
+TAR_PPL_VER,TV_63,Vertical,Cúpula Fija,150000,1
+TAR_PPL_VER,TV_64,Vertical,Cúpula Fija,150000,1
+TAR_PPL_VER,TV_65,Vertical,Cúpula Fija,200000,1
+TAR_PPL_VER,TV_76,Vertical,Cúpula Fija,200000,1
+TAR_PPL_VER,TV_100,Vertical,Cúpula Fija,200000,1
+TAR_PPL_VER,TV_101,Vertical,Cúpula Fija,200000,1
+TAR_PPL_VER,TV_102,Vertical,Cúpula Fija con Membrana Interna Flotante,200000,1
+TAR_PPL_VER,TV_103,Vertical,Cúpula Fija con Membrana Interna Flotante,200000,1
+TAR_PPL_VER,TV_104,Vertical,Cúpula Fija con Membrana Interna Flotante,200000,1
+TAR_PPL_VER,TV_200,Vertical,Cúpula Fija,200000,1
+TAR_PPL_VER,TV_201,Vertical,Cúpula Fija,200000,1
+TAR_PPL_VER,TV_202,Vertical,Cúpula Fija,200000,1
+TAR_PPL_VER,TV_203,Vertical,Cúpula Fija,200000,1
+TAR_PPL_VER,TV_204,Vertical,Cúpula Fija,200000,1
+TAR_PPL_VER,TV_205,Vertical,Cúpula Fija,200000,1
+TAR_PPL_VER,TV_212,Vertical,Cúpula Fija con Membrana Interna Flotante,200000,1
+TAR_PPL_VER,TV_214,Vertical,Cúpula Fija con Membrana Interna Flotante,200000,1
+TAR_PPL_VER,TV_215,Vertical,Cúpula Fija con Membrana Interna Flotante,200000,1
+TAR_PPL_VER,TV_216,Vertical,Cúpula Fija,200000,1
+TAR_PPL_VER,TV_217,Vertical,Cúpula Flotante,200000,1
+TAR_PPL_VER,TV_218,Vertical,Cúpula Fija,200000,1
+TAR_PPL_VER,TV_219,Vertical,Cúpula Fija,200000,1
+TAR_PPL_VER,TV_221,Vertical,Cúpula Fija,200000,1
+TAR_PPL_VER,TV_240,Vertical,Cúpula Fija con Membrana Interna Flotante,200000,1
+TAR_PPL_VER,TV_241,Vertical,Cúpula Fija,200000,1
+TAR_PPL_VER,TV_242,Vertical,Cúpula Fija,200000,1
+TAR_PPL_VER,TV_502,Vertical,Cúpula Fija con Membrana Interna Flotante,55000,1
+TAR_PPL_VER,TV_503,Vertical,Cúpula Fija,55000,1
+TAR_PPL_VER,TV_507,Vertical,Cúpula Fija,55000,1
+TAR_PPL_VER,TV_509,Vertical,Cúpula Fija,55000,1
+TAR_PPL_VER,TV_510,Vertical,Cúpula Fija,55000,1
+TAR_PPL_VER,TV_511,Vertical,Atmosférico,55000,1
+TAR_PPL_VER,TV_514,Vertical,Atmosférico,30000,1
+TAR_PPL_VER,TV_51,Vertical,Atmosférico,20000,1
+TAR_PPL_VER,TV_52,Vertical,Atmosférico,20000,1
+TAR_PPL_VER,TV_53,Vertical,Atmosférico,20000,1
+TAR_PPL_VER,TV_54,Vertical,Atmosférico,20000,1
+TAR_PPL_VER,TV_55,Vertical,Atmosférico,20000,1
+TAR_PPL_VER,TV_58,Vertical,Atmosférico,20000,1
+TAR_PPL_VER,TV_62,Vertical,Atmosférico,20000,1
+TAR_PPL_VER,TV_68,Vertical,Atmosférico,20000,1
+TAR_PPL_VER,TV_69,Vertical,Atmosférico,20000,1
+TAR_PPQ_VER,TC_1001,Vertical,Cúpula Fija,20000,1
+TAR_PPQ_VER,TC_1002,Vertical,Cúpula Fija,20000,1
+TAR_PPQ_VER,TC_1005,Vertical,Cúpula Fija,20000,1
+TAR_PPQ_VER,TC_1006,Vertical,Cúpula Fija,55000,1
+TAR_PPQ_VER,TC_1003,Vertical,Cúpula Fija,150000,1
+TAR_PPQ_VER,TC_1004,Vertical,Cúpula Fija,150000,1
+TAR_PPQ_VER,TE_2003,Vertical,Cúpula Fija,150000,1
+TAR_PRO_YUC,TV_09,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,55000,1
+TAR_PRO_YUC,TV_10,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,30000,1
+TAR_PRO_YUC,TV_11,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,55000,1
+TAR_PRO_YUC,TV_20,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,10000,1
+TAR_PRO_YUC,TV_21,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,10000,1
+TAR_PRO_YUC,TV_30,Cilíndrico Vertical Atmosférico,Techo Fijo,30000,1
+TAR_PRO_YUC,TV_31,Cilíndrico Vertical Atmosférico,Techo Fijo,30000,1
+TAR_PRO_YUC,TV_06,Cilíndrico Vertical Atmosférico,Techo Fijo,30000,1
+TAR_PRO_YUC,TH_1,Horizontal,No especificado,500,1
+TAR_PRO_YUC,TV_08,Cilíndrico Vertical Atmosférico,Techo Fijo,30000,1
+TAR_PUE_PUE,TV_102,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,55000,1
+TAR_PUE_PUE,TV-101,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,55000,1
+TAR_PUE_PUE,TV_103,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,55000,1
+TAR_PUE_PUE,TV_111,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,80000,1
+TAR_PUE_PUE,TV_112,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,30000,1
+TAR_PUE_PUE,TV_105,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,30000,1
+TAR_PUE_PUE,TV_106,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,55000,1
+TAR_PUE_PUE,TV_107,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,55000,1
+TAR_PUE_PUE,TV_104,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_PUE_PUE,TV_108,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_QRO_QRO,TV_1,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,55000,1
+TAR_QRO_QRO,TV_2,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,55000,1
+TAR_QRO_QRO,TV_3,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,30000,1
+TAR_QRO_QRO,TV_4,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,30000,1
+TAR_QRO_QRO,TV_5,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,30000,1
+TAR_QRO_QRO,TV_5,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,20000,1
+TAR_QRO_QRO,TV_7,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,10000,1
+TAR_REY_TAM,TV_31,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,10000,1
+TAR_REY_TAM,TV_575,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,10000,1
+TAR_REY_TAM,TH_533,Cilíndrico Vertical Atmosférico,No especificado,500,1
+TAR_REY_TAM,TH_534,Cilíndrico Vertical Atmosférico,No especificado,500,1
+TAR_REY_TAM,TH_535,Cilíndrico Vertical Atmosférico,No especificado,500,1
+TAR_REY_TAM,TH_524,Cilíndrico Horizontal Atmosférico,No especificado,500,1
+TAR_REY_TAM,TH_525,Cilíndrico Horizontal Atmosférico,No especificado,500,1
+TAR_REY_TAM,TH_526,Cilíndrico Horizontal Atmosférico,No especificado,500,1
+TAR_REY_TAM,TH_529,Cilíndrico Horizontal Atmosférico,No especificado,500,1
+TAR_RLP_BJ,TE_1,Esférico,No especificado,20000,1
+TAR_RLP_BJ,TE_1,Esférico,No especificado,20000,1
+TAR_ROS_BJ,TV_1,Cilíndrico Vertical Atmosférico,Techo Fijo,65000,1
+TAR_ROS_BJ,TV_2,Cilíndrico Vertical Atmosférico,Techo Fijo,65000,1
+TAR_ROS_BJ,TV_3,Cilíndrico Vertical Atmosférico,Techo Flotante,150000,1
+TAR_ROS_BJ,TV_4,Cilíndrico Vertical Atmosférico,Membrana Flotante,65000,1
+TAR_ROS_BJ,TV_5,Cilíndrico Vertical Atmosférico,Techo Flotante,150000,1
+TAR_ROS_BJ,TV_7,Cilíndrico Vertical Atmosférico,Membrana Flotante,65000,1
+TAR_ROS_BJ,TV_8,Cilíndrico Vertical Atmosférico,Techo Flotante,150000,1
+TAR_ROS_BJ,TV_11,Cilíndrico Vertical Atmosférico,Techo Fijo,3000,1
+TAR_ROS_BJ,TV_12,Cilíndrico Vertical Atmosférico,Membrana Flotante,80000,1
+TAR_ROS_BJ,TV_14,Cilíndrico Vertical Atmosférico,Membrana Flotante,100000,1
+TAR_ROS_BJ,TV_15,Cilíndrico Vertical Atmosférico,Techo Fijo,100000,1
+TAR_ROS_BJ,TV_16,Cilíndrico Vertical Atmosférico,Membrana Flotante,200000,1
+TAR_ROS_BJ,TV_17,Cilíndrico Vertical Atmosférico,Membrana Flotante,200000,1
+TAR_SAB_COA,TV_01,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_SAB_COA,TV_03,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,30000,1
+TAR_SAB_COA,TV_04,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,20000,1
+TAR_SAB_COA,TV_07,Cilíndrico Vertical Atmosférico,Techo Fijo,10000,1
+TAR_SAB_COA,TV_08,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,30000,1
+TAR_SAB_COA,TV_09,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_SAL_COA,TV_1,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,10000,1
+TAR_SAL_COA,TV_2,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,55000,1
+TAR_SAL_COA,TV_3,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,20000,1
+TAR_SAL_COA,TV_4,Cilíndrico Vertical Atmosférico,Techo Fijo,10000,1
+TAR_SAL_COA,TV_5,Cilíndrico Vertical Atmosférico,Techo Fijo,55000,1
+TAR_SAL_COA,TH_5,Horizontal,No especificado,500,1
+TAR_SAL_COA,TH_18,Horizontal,No especificado,500,1
+TAR_SCM_OAX,TV_314,Vertical,No especificado,82000,1
+TAR_SCM_OAX,TV_412,Vertical,No especificado,55000,1
+TAR_SCM_OAX,TV_058,Vertical,No especificado,55000,1
+TAR_SCM_OAX,TV_057,Vertical,No especificado,55000,1
+TAR_SCM_OAX,TV_059,Vertical,No especificado,55000,1
+TAR_SCM_OAX,TV_316,Vertical,No especificado,55000,1
+TAR_SCM_OAX,TV_414,Vertical,No especificado,55000,1
+TAR_SCM_OAX,TV_317,Vertical,No especificado,55000,1
+TAR_SCM_OAX,TV_308,Vertical,No especificado,131000,1
+TAR_SCM_OAX,TV_306,Vertical,No especificado,84000,1
+TAR_SCM_OAX,TV_307,Vertical,No especificado,84000,1
+TAR_SCM_OAX,TV_476,Vertical,No especificado,55000,1
+TAR_SCM_OAX,TV_01,Vertical,No especificado,45000,1
+TAR_SCM_OAX,TV_02,Vertical,No especificado,47000,1
+TAR_SCM_OAX,TV_411,Vertical,No especificado,55000,1
+TAR_SCM_OAX,TV_315,Vertical,No especificado,55000,1
+TAR_SCM_OAX,TV_475,Vertical,No especificado,55000,1
+TAR_SCM_OAX,TV_413,Vertical,No especificado,55000,1
+TAR_SCM_OAX,TV_03,Vertical,No especificado,116000,1
+TAR_SCM_OAX,TV_10,Vertical,No especificado,20000,1
+TAR_SCM_OAX,TV_1,Vertical,No especificado,60000,1
+TAR_SCM_OAX,TV_2,Vertical,No especificado,60000,1
+TAR_SCM_OAX,TV_3,Vertical,No especificado,60000,1
+TAR_SCM_OAX,TV_4,Vertical,No especificado,20000,1
+TAR_SCM_OAX,TV_5,Vertical,No especificado,10000,1
+TAR_SCN_NL,TV_12,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,10000,1
+TAR_SCN_NL,TV_1,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,55000,1
+TAR_SCN_NL,TV_2,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,55000,1
+TAR_SCN_NL,TV_7,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,55000,1
+TAR_SCN_NL,TV_8,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,55000,1
+TAR_SCN_NL,TV_9,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,55000,1
+TAR_SCN_NL,TV_13,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,55000,1
+TAR_SCN_NL,TV_14,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,55000,1
+TAR_SCN_NL,TV_5,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,55000,1
+TAR_SCN_NL,TV_3,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,100000,1
+TAR_SCN_NL,TV_4,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,100000,1
+TAR_SCN_NL,TV_10,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,100000,1
+TAR_SCN_NL,TV_11,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,100000,1
+TAR_SCZ_OAX,TV_1,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_SCZ_OAX,TV_2,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_SCZ_OAX,TV_3,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,55000,1
+TAR_SCZ_OAX,TV_4,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,30000,1
+TAR_SCZ_OAX,TV_9,Cilíndrico Vertical Atmosférico,Techo Fijo,55000,1
+TAR_SCZ_OAX,TV_10,Cilíndrico Vertical Atmosférico,Techo Fijo,30000,1
+TAR_SCZ_OAX,TV_11,Cilíndrico Vertical Atmosférico,Techo Fijo,5000,1
+TAR_SCZ_OAX,TV_5,Cilíndrico Vertical Atmosférico,Techo Fijo,5000,1
+TAR_SCZ_OAX,TV_6,Cilíndrico Vertical Atmosférico,Techo Fijo,5000,1
+TAR_SCZ_OAX,TV_7,Cilíndrico Vertical Atmosférico,Techo Fijo,5000,1
+TAR_SCZ_OAX,TV_8,Cilíndrico Vertical Atmosférico,Techo Fijo,5000,1
+TAR_SJI_MEX,TV_1,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,100000,1
+TAR_SJI_MEX,TV_2,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,100000,1
+TAR_SJI_MEX,TV_3,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,20000,1
+TAR_SJI_MEX,TV_4,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_SLP_SLP,TV_01,Cilíndrico Vertical Atmosférico,Membrana Flotante,10000,1
+TAR_SLP_SLP,TV_02,Cilíndrico Vertical Atmosférico,Membrana Flotante,5000,1
+TAR_SLP_SLP,TV_03,Cilíndrico Vertical Atmosférico,Membrana Flotante,20000,1
+TAR_SLP_SLP,TV_04,Cilíndrico Vertical Atmosférico,Membrana Flotante,15000,1
+TAR_SLP_SLP,TV_05,Cilíndrico Vertical Atmosférico,Membrana Flotante,10000,1
+TAR_SLP_SLP,TV_08,Cilíndrico Vertical Atmosférico,Membrana Flotante,20000,1
+TAR_SLP_SLP,TV_09,Cilíndrico Vertical Atmosférico,Membrana Flotante,20000,1
+TAR_SMT_PUE,TE_1,Esférico,No especificado,10000,1
+TAR_SMT_PUE,TE_2,Esférico,No especificado,10000,1
+TAR_TAP_CHS,TV_218,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,3000,1
+TAR_TAP_CHS,TV_208,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_TAP_CHS,TV_303,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_TAP_CHS,TV_305,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_TAP_CHS,TV_219,Cilíndrico Vertical Atmosférico,Techo Fijo,3000,1
+TAR_TAP_CHS,TH_160,Horizontal,No especificado,500,1
+TAR_TAP_CHS,TV_220,Cilíndrico Vertical Atmosférico,Techo Fijo,3000,1
+TAR_TBV_VER,TV_3,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_TBV_VER,TV_2,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,10000,1
+TAR_TBV_VER,TV_1,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,10000,1
+TAR_TBV_VER,TV_4,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,10000,1
+TAR_TBV_VER,TV_6,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,10000,1
+TAR_TBV_VER,TV_7,Cilíndrico Vertical Atmosférico,Techo Fijo,20000,1
+TAR_TBV_VER,TV_5,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_TBV_VER,TV_63,Cilíndrico Vertical Atmosférico,Techo Fijo,1000,1
+TAR_TEP_NAY,TV_1,Cilíndrico Vertical Atmosférico,Membrana Flotante,5000,1
+TAR_TEP_NAY,TV_2,Cilíndrico Vertical Atmosférico,Membrana Flotante,30000,1
+TAR_TEP_NAY,TV_3,Cilíndrico Vertical Atmosférico,Membrana Flotante,30000,1
+TAR_TEP_NAY,TV_5,Cilíndrico Vertical Atmosférico,Membrana Flotante,30000,1
+TAR_TGC_CHS,TV_5,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,10000,1
+TAR_TGC_CHS,TV_6,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,10000,1
+TAR_TGC_CHS,TV_2,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,30000,1
+TAR_TGC_CHS,TV_3,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,30000,1
+TAR_TGC_CHS,TV_1,Cilíndrico Vertical Atmosférico,Techo Fijo,5000,1
+TAR_TGC_CHS,TV_4,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,20000,1
+TAR_TLP_HGO,TE_1,Esférico,No especificado,20000,1
+TAR_TLP_HGO,TE_2,Esférico,No especificado,20000,1
+TAR_TLP_HGO,TE_3,Esférico,No especificado,20000,1
+TAR_TLP_SIN,TC_1,Criogénico,No especificado,200000,1
+TAR_TMP_PUE,TV_1,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,10000,1
+TAR_TMP_PUE,TV_5,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,10000,1
+TAR_TMP_PUE,TV_2,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_TMP_PUE,TV_3,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,10000,1
+TAR_TMP_PUE,TV_6,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,10000,1
+TAR_TOL_MEX,TV_1,Cilíndrico Vertical,Membrana Interna Flotante,5000,1
+TAR_TOL_MEX,TV_2,Cilíndrico Vertical,Membrana Interna Flotante,30000,1
+TAR_TOL_MEX,TV_3,Cilíndrico Vertical,Membrana Interna Flotante,20000,1
+TAR_TOL_MEX,TV_4,Cilíndrico Vertical,Membrana Interna Flotante,5000,1
+TAR_TOL_MEX,TV_5,Cilíndrico Vertical,Membrana Interna Flotante,5000,1
+TAR_TOL_MEX,TV_6,Cilíndrico Vertical,Membrana Interna Flotante,10000,1
+TAR_TOL_MEX,TV_7,Cilíndrico Vertical,Membrana Interna Flotante,10000,1
+TAR_TOL_MEX,TV_8,Cilíndrico Vertical,Membrana Interna Flotante,55000,1
+TAR_TOL_MEX,TV_9,Cilíndrico Vertical,Membrana Interna Flotante,55000,1
+TAR_TPB_SIN,TV_1,Cilíndrico Vertical Atmosférico,Techo Fijo,100000,1
+TAR_TPB_SIN,TV_2,Cilíndrico Vertical Atmosférico,Techo Fijo,100000,1
+TAR_TPB_SIN,TV_3,Cilíndrico Vertical Atmosférico,Techo Fijo,100000,1
+TAR_TPB_SIN,TV_4,Cilíndrico Vertical Atmosférico,Membrana Flotante,100000,1
+TAR_TPB_SIN,TV_5,Cilíndrico Vertical Atmosférico,Membrana Flotante,100000,1
+TAR_TPB_SIN,TV_6,Cilíndrico Vertical Atmosférico,Membrana Flotante,100000,1
+TAR_TPB_SIN,TV_7,Cilíndrico Vertical Atmosférico,Membrana Flotante,30000,1
+TAR_TPB_SIN,TV_8,Cilíndrico Vertical Atmosférico,Membrana Flotante,30000,1
+TAR_TPB_SIN,TV_9,Cilíndrico Vertical Atmosférico,Membrana Flotante,30000,1
+TAR_TPB_SIN,TV_10,Cilíndrico Vertical Atmosférico,Membrana Flotante,30000,1
+TAR_TPB_SIN,TV_11,Cilíndrico Vertical Atmosférico,Techo Fijo,10000,1
+TAR_TPB_SIN,TV_13,Cilíndrico Vertical Atmosférico,Membrana Flotante,30000,1
+TAR_TUX_VER,TV_3,Vertical,Cúpula Fija,55000,1
+TAR_TUX_VER,TV_4,Vertical,Cúpula Fija,55000,1
+TAR_TUX_VER,TV_5,Vertical,Cúpula Fija con Membrana Interna Flotante,55000,1
+TAR_TUX_VER,TV_6,Vertical,Cúpula Fija con Membrana Interna Flotante,55000,1
+TAR_TUX_VER,TV_8,Vertical,Cúpula Fija con Membrana Interna Flotante,55000,1
+TAR_TUX_VER,TV_9,Vertical,Cúpula Fija con Membrana Interna Flotante,55000,1
+TAR_TUX_VER,TV_10,Vertical,Cúpula Fija con Membrana Interna Flotante,55000,1
+TAR_TUX_VER,TV_12,Vertical,Cúpula Flotante,55000,1
+TAR_TUX_VER,TV_13,Vertical,Cúpula Flotante,55000,1
+TAR_TUX_VER,TV_15,Vertical,Cúpula Fija con Membrana Interna Flotante,55000,1
+TAR_TUX_VER,TV_100,Vertical,Cúpula Fija,100000,1
+TAR_TUX_VER,TV_101,Vertical,Cúpula Flotante,55000,1
+TAR_TUX_VER,TV_102,Vertical,Cúpula Flotante,55000,1
+TAR_TUX_VER,TV_103,Vertical,Cúpula Flotante,55000,1
+TAR_TUX_VER,TV_104,Vertical,Cúpula Fija con Membrana Interna Flotante,200000,1
+TAR_TUX_VER,TV_105,Vertical,Cúpula Fija con Membrana Interna Flotante,200000,1
+TAR_TUX_VER,TV_106,Vertical,Cúpula Flotante,200000,1
+TAR_TUX_VER,TV_107,Vertical,Cúpula Flotante,200000,1
+TAR_TUX_VER,TV_108,Vertical,Cúpula Flotante,200000,1
+TAR_TUX_VER,TV_109A,Vertical,Cúpula Fija con Membrana Interna Flotante,100000,1
+TAR_TUX_VER,TV_110,Vertical,Cúpula Fija con Membrana Interna Flotante,100000,1
+TAR_TUX_VER,TV_111,Vertical,Cúpula Fija con Membrana Interna Flotante,100000,1
+TAR_TUX_VER,TV_112,Vertical,Cúpula Geodésica con Membrana Interna Flotante,100000,1
+TAR_TUX_VER,TV_113,Vertical,Cúpula Geodésica con Membrana Interna Flotante,100000,1
+TAR_TUX_VER,TV_114,Vertical,Cúpula Geodésica con Membrana Interna Flotante,100000,1
+TAR_TUX_VER,TV_116,Vertical,Cúpula Geodésica con Membrana Interna Flotante,100000,1
+TAR_TUX_VER,TV_1D,Vertical,Cúpula Fija,10000,1
+TAR_URU_MIC,TV_1,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,55000,1
+TAR_URU_MIC,TV_2,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,55000,1
+TAR_URU_MIC,TV_3,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_URU_MIC,TV_5,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_URU_MIC,TV_6,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,10000,1
+TAR_VAL_SLP,TV_MAG,Vertical,Membrana Interna Flotante,30000,1
+TAR_VAL_SLP,TV_PRE,Vertical,Membrana Interna Flotante,5000,1
+TAR_VAL_SLP,TV_DIE,Vertical,Sin Membrana,20000,1
+TAR_VAL_SLP,TV_MAG,Vertical,Membrana Interna Flotante,20000,1
+TAR_VER_VER,TV_7,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,80000,1
+TAR_VER_VER,TV_12,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,20000,1
+TAR_VER_VER,TV_15,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,20000,1
+TAR_VER_VER,TV_415,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,20000,1
+TAR_VER_VER,TV_416,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,20000,1
+TAR_VER_VER,TV_13,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,20000,1
+TAR_VER_VER,TV_601,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,10000,1
+TAR_VER_VER,TV_603,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,10000,1
+TAR_VER_VER,TV_484,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,100000,1
+TAR_VER_VER,TV_489,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,55000,1
+TAR_VER_VER,TV_01,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,30000,1
+TAR_VER_VER,TV_02,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,30000,1
+TAR_VER_VER,TV_03,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,30000,1
+TAR_VER_VER,TV_04,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,30000,1
+TAR_VER_VER,TV_05,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,30000,1
+TAR_VER_VER,TH_1,Horizontal,No especificado,500,1
+TAR_VER_VER,TH_2,Horizontal,No especificado,500,1
+TAR_VER_VER,TV_06,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,30000,1
+TAR_VIC_TAM,TV_1,Cilíndrico Vertical Atmosférico,Cúpula Flotante,55000,1
+TAR_VIC_TAM,TV_2,Cilíndrico Vertical Atmosférico,Cúpula Flotante,55000,1
+TAR_VIC_TAM,TV_3,Cilíndrico Vertical Atmosférico,Cúpula Flotante,10000,1
+TAR_VIC_TAM,TV_4,Cilíndrico Vertical Atmosférico,Cúpula Flotante,10000,1
+TAR_VIC_TAM,TV_5,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,30000,1
+TAR_VIC_TAM,TV_6,Cilíndrico Vertical Atmosférico,No especificado,30000,1
+TAR_VIC_TAM,TV_9,Cilíndrico Vertical Atmosférico,Membrana Interna Flotante,5000,1
+TAR_VIL_TAB,TV_21,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,10000,1
+TAR_VIL_TAB,TV_22,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,10000,1
+TAR_VIL_TAB,TV_30,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,20000,1
+TAR_VIL_TAB,TV_11,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,30000,1
+TAR_VIL_TAB,TV_14,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,55000,1
+TAR_VIL_TAB,TV_15,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,30000,1
+TAR_VIL_TAB,TV_10,Cilíndrico Vertical Atmosférico,Techo Fijo con Membrana Interna Flotante,55000,1
+TAR_VIL_TAB,TV_31,Cilíndrico Vertical Atmosférico,Techo Fijo,20000,1
+TAR_VIL_TAB,TV_32,Cilíndrico Vertical Atmosférico,Techo Fijo,55000,1
+TAR_VIL_TAB,TV_33,Cilíndrico Vertical Atmosférico,Techo Fijo,30000,1
+TAR_VIL_TAB,TV_20,Cilíndrico Vertical Atmosférico,Techo Fijo,10000,1
+TAR_VIL_TAB,TV_4,Cilíndrico Vertical Atmosférico,Techo Fijo,3000,1
+TAR_VIL_TAB,TH_10,Horizontal,No especificado,500,1
+TAR_ZAC_ZAC,TV_20,Cilíndrico Vertical Atmosférico,Membrana Flotante,20000,1
+TAR_ZAC_ZAC,TV_24,Cilíndrico Vertical Atmosférico,Membrana Flotante,20000,1
+TAR_ZAC_ZAC,TV_21,Cilíndrico Vertical Atmosférico,Membrana Flotante,10000,1
+TAR_ZAC_ZAC,TV_22,Cilíndrico Vertical Atmosférico,Membrana Flotante,10000,1
+TAR_ZAC_ZAC,TV_23,Cilíndrico Vertical Atmosférico,Membrana Flotante,10000,1
+TAR_ZAC_ZAC,TV_25,Cilíndrico Vertical Atmosférico,Membrana Flotante,10000,1
+TAR_ZAC_ZAC,TV_26,Cilíndrico Vertical Atmosférico,Membrana Flotante,5000,1
+TAR_ZAM_MIC,TV_1,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,20000,1
+TAR_ZAM_MIC,TV_2,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,20000,1
+TAR_ZAM_MIC,TV_3,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,20000,1
+TAR_ZAM_MIC,TV_4,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,20000,1
+TAR_ZAM_MIC,TV_5,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_ZAM_MIC,TV_6,Cilíndrico Vertical,Techo Fijo con Membrana Interna Flotante,5000,1
+TAR_ZAP_JAL,TV_1,Cilíndrico Vertical Atmosférico,Membrana Flotante,20000,1
+TAR_ZAP_JAL,TV_2,Cilíndrico Vertical Atmosférico,Membrana Flotante,55000,1
+TAR_ZAP_JAL,TV_3,Cilíndrico Vertical Atmosférico,Membrana Flotante,55000,1
+TAR_ZAP_JAL,TV_4,Cilíndrico Vertical Atmosférico,Membrana Flotante,55000,1
+TAR_ZAP_JAL,TV_5,Cilíndrico Vertical Atmosférico,Membrana Flotante,20000,1
+TAR_ZAP_JAL,TV_6,Cilíndrico Vertical Atmosférico,Membrana Flotante,100000,1
+TAR_ZAP_JAL,TV_7,Cilíndrico Vertical Atmosférico,Membrana Flotante,80000,1
+TAR_ZAP_JAL,TV_8,Cilíndrico Vertical Atmosférico,Membrana Flotante,5000,1
