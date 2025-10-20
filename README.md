@@ -29,9 +29,9 @@ Y si el desempeño operativo es el apropiado para poder satisfacer la demanda en
 │ ├── 02_clean_data_tanques_terminales.ipynb
 │ ├── 03_eda_univariate_analysis_terminales.ipynb
 │ ├── 04_eda_univariate_analysis_tanques_terminales.ipynb
-│ └── 05_univariate_analysis_terminales_gaslp.ipynb
-│ └── 06_bivariable_analysis_terminales.ipynb
-│ └── 07_bivariable_analysis_tanques_terminales.ipynb
+│ └── 05_eda_univariate_analysis_terminales_gaslp.ipynb
+│ └── 06_eda_bivariable_analysis_terminales.ipynb
+│ └── 07_eda_bivariable_analysis_tanques_terminales.ipynb
 │ └── 08_machine_learning_terminales.ipynb
 │ └── 09_conclusiones_terminales.ipynb
 │
