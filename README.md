@@ -1,11 +1,25 @@
 # Análisis de Terminales de Almacenamiento y Tanques de México
 
+La trayectoria del petróleo crudo comprende en gran medida desde el yacimiento, pasando por
+la transformación en una refinería, hasta su almacenamiento y distribución.
+Es por ello que el almacenamiento del petróleo crudo y sus derivados, es muy influyente en este
+trayecto.
+
 Este proyecto tiene como principal propósito indagar y visualizar la 'Capacidad Operativa' y 'Capacidad Diseño'
-de las terminales de almacenamiento. Además de contestar la pregunta principal ¿Cuál es el aprovechamiento operativo
-nacional de las terminales de México?
+de las terminales de almacenamiento, así como conocer la infraestructura de cada una de estas.
+Es así que se plantea la pregunta principal:
+-- ¿Cuál es el aprovechamiento operativo nacional de las terminales de México?.
+Además se consideran las siguientes preguntas adicionales:
+-- ¿Qué región tiene el mejor desempeño de Capacidad Operativa?
+-- ¿Todas las terminales de almacenamiento operan por debajo de su Capacidad de Diseño?
+-- ¿Cómo es la infraestructura de dichas terminales?
+
+Con esto se pretende resolver la interrogante si todas las terminales operan por debajo de su capacidad operativa.
+Y si el desempeño operativo es el apropiado para poder satisfacer la demanda energética del país.
 
 ## Estructura del Proyecto
 
+```sh
 ├── data
 │ ├── raw/ # Datos originales sin procesar
 │ ├── processed/ # Datos limpios listos para análisis
@@ -37,6 +51,7 @@ nacional de las terminales de México?
 ├── requirements.txt # Dependencias y versiones necesarias
 ├── .gitignore # Archivos/carpetas a excluir del control de versiones
 └── README.md
+```
 
 ## Versión de Python
 

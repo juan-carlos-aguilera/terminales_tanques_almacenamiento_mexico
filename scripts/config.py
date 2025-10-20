@@ -22,5 +22,3 @@ FIGURES_PATH = REPORTS_PATH / "figures"
 # Crear carpetas si no existen
 for path in [FIGURES_PATH, REPORTS_PATH]:
     path.mkdir(parents=True, exist_ok=True)
-
-print("Configuración visual y rutas establecidas correctamente")
